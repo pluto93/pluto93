@@ -59,9 +59,11 @@ Google Data Analytics Professional Certificate
     <td>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
       <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe%20xd&logoColor=white">
+      <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+      <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
       <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
       <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-      <img src="https://img.shields.io/badge/FL%20Studio-FFA500?style=for-the-badge&logo=flstudio&logoColor=white">
+      <img src="https://img.shields.io/badge/TouchDesigner-FF4000?style=for-the-badge&logo=derivative&logoColor=white">
     </td>
     <td>
       <ul>
