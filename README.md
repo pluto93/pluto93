@@ -12,18 +12,6 @@ This project aims to **analyze and represent Scotland’s digital presence** by 
 
 Through **interactive data visualizations and static graphics**, this project will uncover insights about **Scotland’s digital identities, representation gaps, and historical online footprints**. The final outputs may be featured in an **exhibition at Inspace in Fall 2025**, showcasing how diverse identities are reflected through the **temporal and dynamic nature of web archives**.  
 
----
-
-### ✨ Design with Data – Exhibition at Edinburgh Science Festival  
-As part of my Design with Data course, I'm working on an exciting **fashion informatics prototype** for the **Edinburgh Science Festival**, combining **data, design, and technology**.  
-
-This project explores the intersection of **fashion, technology, and space**, using:
-- **TouchDesigner** for generative visuals  
-- **Python** for dataset processing  
-- **Projection Mapping** to bring interactive fashion concepts to life  
-
-Through **real-time data-driven visuals**, we aim to create an **immersive experience** that blends **fashion aesthetics with celestial data**, making abstract space concepts more tangible through wearable tech and projection-based storytelling. The final prototype will be showcased as part of an interactive **festival exhibit**, pushing the boundaries of **data-driven design in fashion**.
-
 
 ## 🌱 What I'm Currently Learning
 Google Data Analytics Professional Certificate
