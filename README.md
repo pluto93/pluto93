@@ -28,7 +28,7 @@ Google Data Analytics Professional Certificate
 ## 🌍 Connect With Me
 - 💼 [LinkedIn](www.linkedin.com/in/mansimanoj)
 - 📧 [Email Me](mailto:mansimanoj11@outlook.com)
-- 🌐 [Portfolio Website](https://readymag.website/u4065009182/5266020/)
+- 🌐 [Portfolio Website](https://mansimanoj.vercel.app/)
 
 ⭐ *I’m always open to new collaborations and discussions!* 
 
