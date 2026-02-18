@@ -1,8 +1,8 @@
 ## 👋 Hello! I'm Mansi!
 
 ## About Me
-I'm a MSc Design Informatics Student at The University of Edinburgh. I graduated in BSc Computer Science from Queen Mary University of London.
-I'm passionate about data analytics, business intelligence, AI, user experience and using technology to solve real-world problems.
+I'm a Data Engineer with a MSc Design Informatics from The University of Edinburgh and a BSc Computer Science from Queen Mary University of London.
+I'm passionate about data, business intelligence, AI, user experience and using technology to solve real-world problems.
 
 ## What I'm Currently Up To
 Data engineering @ Native <3
