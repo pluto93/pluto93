@@ -1,38 +1,32 @@
 ## 👋 Hello! I'm Mansi!
 
-## 🎓 About Me
+## About Me
 I'm a MSc Design Informatics Student at The University of Edinburgh. I graduated in BSc Computer Science from Queen Mary University of London.
 I'm passionate about data analytics, business intelligence, AI, user experience and using technology to solve real-world problems.
 
-## 🛠️ What I'm Currently Building
-### 📊 Scotland on the Web – Visualizing Web Archive Data for Public Interaction  
-I'm currently laying the groundwork for my dissertation project, **Scotland on the Web**, which explores how to visualise web archive data from the National Library of Scotland’s **General Collections Team**.  
-
-This project aims to **analyze and represent Scotland’s digital presence** by visualising linked web archive data as networks—where websites become nodes and outlinks form connections. The dataset includes Scottish organisations, cultural topics, media, activism, and more, but is inherently incomplete and constantly evolving.  
-
-Through **interactive data visualizations and static graphics**, this project will uncover insights about **Scotland’s digital identities, representation gaps, and historical online footprints**. The final outputs may be featured in an **exhibition at Inspace in Fall 2025**, showcasing how diverse identities are reflected through the **temporal and dynamic nature of web archives**.  
+## What I'm Currently Up To
+Data engineering @ Native <3
 
 
-## 🌱 What I'm Currently Learning
+## What I'm Currently Learning
 Google Data Analytics Professional Certificate
 
-## 🤔 Interests
-- 📊 **Data Science & Analytics**
-- 💰 **Finance & Business Analytics**
-- 💻 **UI/UX Design**
-- 🤖 **Machine Learning & AI**
-- 🌱 **Sustainable Technology**
-- 🎨 **Data Visualization & Storytelling**
-- 📚 **Continuous Learning & Growth**
+## Interests
+- **Data Science & Analytics**
+- **Finance & Business Analytics**
+- **UI/UX Design**
+- **Machine Learning & AI**
+- **Data Visualization & Storytelling**
+- **Continuous Learning & Growth**
 
-## 🌍 Connect With Me
-- 💼 [LinkedIn](www.linkedin.com/in/mansimanoj)
-- 📧 [Email Me](mailto:mansimanoj11@outlook.com)
-- 🌐 [Portfolio Website](https://mansimanoj.vercel.app/)
+## Connect With Me
+- [LinkedIn](www.linkedin.com/in/mansimanoj)
+- [Email Me](mailto:mansimanoj11@outlook.com)
+- [Portfolio Website](https://mansimanoj.vercel.app/)
 
 ⭐ *I’m always open to new collaborations and discussions!* 
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <table>
   <tr>
