@@ -14,7 +14,6 @@ Google Data Engineering Professional Certificate
 ### Interests
 - **Data Engineering & Analytics**
 - **Finance & Business Analytics**
-- **UI/UX**
 - **Machine Learning & AI**
 - **Data Visualisation & Storytelling**
 - **Continuous Learning & Growth**
