@@ -21,7 +21,7 @@ Google Data Engineering Professional Certificate
 ### Connect With Me
 - [LinkedIn](www.linkedin.com/in/mansimanoj)
 - [Email Me](mailto:mansimanoj11@outlook.com)
-- [Portfolio Website](https://mansimanoj.vercel.app/)
+<!-- - [Portfolio Website](https://mansimanoj.vercel.app/) -->
 
 ⭐ *I’m always open to new collaborations and discussions!* 
 
